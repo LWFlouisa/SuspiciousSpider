@@ -1,0 +1,3 @@
+-- Finishing implementing boss battle mechanics
+-- Flesh out spider and trap mechanics.
+-- Expand on book reading and door shutting game states.
